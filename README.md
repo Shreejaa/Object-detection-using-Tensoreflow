@@ -13,7 +13,7 @@ just multidimensional arrays, an extension of 2-dimensional tables to data with 
 Tensorflow which makes it appropriate for Deep Learning.
 
 #### Setup
-'''
+```
 #Environment Setup
 conda create -n tensorflow1 pip python=3.5
 activate tensorflow1
@@ -22,5 +22,5 @@ pip install -r requirements.txt
 #To run script
 python setup.py build
 python setup.py install
-'''
+```
 Open jupyter notebook and run "". 
