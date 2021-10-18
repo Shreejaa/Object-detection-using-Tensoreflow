@@ -1,6 +1,6 @@
 # Secure Gate Pass System through Detect Vision and Speech (DVS System)
 ### Object detection using RCNN algorithm in TensorFlow 
-[Research Paper](https://www.researchgate.net/publication/334612740_Secure_Gate_Pass_System_through_Detect_Vision_and_Speech_DVS_system)
+[Please refer research paper for more details](https://www.researchgate.net/publication/334612740_Secure_Gate_Pass_System_through_Detect_Vision_and_Speech_DVS_system)
 #### INTRODUCTION
 The vehicle loaded with material is detected by Object detection - the process of finding real-world object instances like car, bike, 
 TV, flowers, and humans in still images or Videos shown in Figure1. It allows for the recognition, localization, and detection of 
@@ -23,4 +23,4 @@ pip install -r requirements.txt
 python setup.py build
 python setup.py install
 ```
-Open jupyter notebook and run "". 
+Open jupyter notebook and run "real_time_object_detection_rcnn.ipynb". 
