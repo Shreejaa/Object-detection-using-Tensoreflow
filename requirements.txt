@@ -1,0 +1,13 @@
+tensorflow
+protobuf
+pillow
+lxml
+cython
+jupyter
+matplotlib 
+pandas
+opencv-python
+imutils
+pandas
+pyzbar
+argparse
